@@ -1,0 +1,3 @@
+A fairly standard template I made near the beginning of my React career as practice making a site with real use. Made with the idea of approaching local lawyers without a site and offering to help make them a custom one; this would be my jumping off point for creating a prototype I could send to potential clients. 
+
+Since it's a template, it is pretty bare in terms of written content and interactivity, but please feel free to visit the site anyway.
