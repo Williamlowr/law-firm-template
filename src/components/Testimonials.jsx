@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import profile2 from "../../public/profile2.jpg";
+import profile2 from "../../public/img/profile2.png";
 
 const Testimonials = () => {
   const testimonies = [
